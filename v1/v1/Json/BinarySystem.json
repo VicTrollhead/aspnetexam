@@ -1,0 +1,102 @@
+[
+  {
+    "Key": "Which decimal number corresponds to the binary number 101010?",
+    "Options": [ "42", "90", "66", "74" ],
+    "CorrectAnswer": [ "42" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 001011?",
+    "Options": [ "9", "15", "11", "27" ],
+    "CorrectAnswer": [ "11" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 00110110?",
+    "Options": [ "43", "53", "38", "54" ],
+    "CorrectAnswer": [ "54" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1001110?",
+    "Options": [ "70", "78", "65", "91" ],
+    "CorrectAnswer": [ "78" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 01110101?",
+    "Options": [ "113", "117", "101", "125" ],
+    "CorrectAnswer": [ "117" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 01110011?",
+    "Options": [ "103", "115", "99", "121" ],
+    "CorrectAnswer": [ "99" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 10110101?",
+    "Options": [ "181", "209", "197", "213" ],
+    "CorrectAnswer": [ "181" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 010101010?",
+    "Options": [ "86", "122", "170", "194" ],
+    "CorrectAnswer": [ "170" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1110001110?",
+    "Options": [ "910", "510", "398", "430" ],
+    "CorrectAnswer": [ "910" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 11001001?",
+    "Options": [ "105", "201", "89", "97" ],
+    "CorrectAnswer": [ "201" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1100110011?",
+    "Options": [ "819", "899", "659", "691" ],
+    "CorrectAnswer": [ "819" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 000111110110?",
+    "Options": [ "438", "502", "360", "402" ],
+    "CorrectAnswer": [ "502" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 101100110?",
+    "Options": [ "358", "502", "360", "402" ],
+    "CorrectAnswer": [ "358" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1111111111?",
+    "Options": [ "511", "1023", "767", "895" ],
+    "CorrectAnswer": [ "1023" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 010110011?",
+    "Options": [ "155", "171", "141", "179" ],
+    "CorrectAnswer": [ "179" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1000011111?",
+    "Options": [ "207", "231", "543", "183" ],
+    "CorrectAnswer": [ "543" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1101101101?",
+    "Options": [ "877", "981", "837", "925" ],
+    "CorrectAnswer": [ "877" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 1010101010?",
+    "Options": [ "682", "778", "646", "714" ],
+    "CorrectAnswer": [ "682" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 11001100110?",
+    "Options": [ "1638", "1806", "1318", "1462" ],
+    "CorrectAnswer": [ "1638" ]
+  },
+  {
+    "Key": "Which decimal number corresponds to the binary number 10000000000?",
+    "Options": [ "512", "1024", "768", "896" ],
+    "CorrectAnswer": [ "1024" ]
+  }
+]

@@ -1,0 +1,79 @@
+.flex {
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.auth-buttons-container {
+    display: flex;
+}
+
+.auth-buttons-container h1{
+    margin-right: 100px;
+}
+
+.auth-button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #53585c;
+    border: 1px solid #a7e615;
+    color: #fff;   
+    outline: none;
+}
+
+.auth-button:hover {
+    background-color: #27ae60;   
+}
+
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #53585c;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    border: 1px solid #a7e615;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.auth-form label {
+    margin-bottom: 10px;
+}
+
+.auth-form input {
+    width: 100%;
+    padding: 5px;   
+    margin-bottom: 15px;   
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.auth-form button {       
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #3498db;  
+    border: 1px solid #ddd;
+    color: #fff;    
+    transition: background-color 0.3s;
+}
+
+.auth-form button:hover {
+    background-color: #27ae60;   
+}
+
+.auth-form-cancel-button {   
+    background-color: #e74c3c;
+}
+
+.ColorWhite{
+    color: #ddd;    
+}

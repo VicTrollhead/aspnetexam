@@ -1,0 +1,141 @@
+[
+  {
+    "Key": "What organic compound is the most common in nature?",
+    "Options": [ "Methane", "Ethanol", "Glucose", "Formaldehyde" ],
+    "CorrectAnswer": [ "Glucose" ]
+  },
+  {
+    "Key": "What happens to the acidity of organic acids as the number of carbon atoms in the molecule increases?",
+    "Options": [
+      "Acidity increases",
+      "Acidity decreases",
+      "Acidity does not change",
+      "Acidity may increase or decrease, depending on specific conditions"
+    ],
+    "CorrectAnswer": [ "Acidity decreases" ]
+  },
+  {
+    "Key": "What is the name of the process by which molecules of organic compounds combine into larger molecules?",
+    "Options": [ "Hydrolysis", "Oxidation", "Polymerization", "Fermentation" ],
+    "CorrectAnswer": [ "Polymerization" ]
+  },
+  {
+    "Key": "What element is the primary component of organic compounds?",
+    "Options": [ "Carbon", "Oxygen", "Hydrogen", "Nitrogen" ],
+    "CorrectAnswer": [ "Carbon" ]
+  },
+  {
+    "Key": "What is the name of the process by which a molecule of organic compound is broken down into smaller parts by water?",
+    "Options": [ "Hydrolysis", "Oxidation", "Dehydration", "Fermentation" ],
+    "CorrectAnswer": [ "Hydrolysis" ]
+  },
+  {
+    "Key": "Which of the following compounds are amino acids?",
+    "Options": [
+      "Glucose and fructose",
+      "Strophanthin and digitoxin",
+      "Asparagine and leucine",
+      "Sucrose and lactose"
+    ],
+    "CorrectAnswer": [ "Asparagine and leucine" ]
+  },
+  {
+    "Key": "What are isomers?",
+    "Options": [
+      "Substances with the same molecular formula but different structures",
+      "Substances with different molecular weights but the same structure",
+      "Substances with different molecular formulas but the same structure",
+      "Substances with the same molecular weight and formula"      
+    ],
+    "CorrectAnswer": [
+      "Substances with the same molecular formula but different structures"
+    ]
+  },
+  {
+    "Key": "What types of bonds can be present in organic compound molecules?",
+    "Options": [ "Covalent bonds", "Ionic bonds", "Metallic bonds", "Hydrogen bonds" ],
+    "CorrectAnswer": [ "Covalent bonds" ]
+  },
+  {
+    "Key": "Which of the following elements are most commonly found in organic compounds?",
+    "Options": [ "Hydrogen, helium, lithium", "Carbon, hydrogen, oxygen, nitrogen", "Oxygen, fluorine, neon", "Aluminum, silicon, phosphorus" ],
+    "CorrectAnswer": [ "Carbon, hydrogen, oxygen, nitrogen" ]
+  },
+  {
+    "Key": "What does the atomic number of an element in the periodic table represent?",
+    "Options": [
+      "The number of neutrons in the atom's nucleus",
+      "The number of electrons in the atom",
+      "The sum of protons and neutrons in the atom's nucleus",
+      "The number of protons in the atom's nucleus"
+    ],
+    "CorrectAnswer": [ "The number of protons in the atom's nucleus" ]
+  },
+  {
+    "Key": "Which functional group does ethanol belong to?",
+    "Options": [ "Ketone", "Carbonyl", "Hydroxyl", "Amino" ],
+    "CorrectAnswer": [ "Hydroxyl" ]
+  },
+  {
+    "Key": "What is the process of photosynthesis?",
+    "Options": [
+      "The reaction of ethanol formation during the fermentation process",
+      "The reaction of glucose formation from water and carbon dioxide in the presence of light",
+      "The explosion of petroleum gases in the presence of sparks",
+      "The reaction of benzene formation during the coking of coal"
+    ],
+    "CorrectAnswer": [
+      "The reaction of glucose formation from water and carbon dioxide in the presence of light"
+    ]
+  },
+  {
+    "Key": "What is the process called when a solid substance turns into a gas without transitioning into a liquid state?",
+    "Options": [ "Condensation", "Ionization", "Sublimation", "Dissociation" ],
+    "CorrectAnswer": [ "Sublimation" ]
+  },
+  {
+    "Key": "Which element forms compounds with the greatest number of other elements?",
+    "Options": [ "Carbon", "Oxygen", "Iron", "Sodium" ],
+    "CorrectAnswer": [ "Oxygen" ]
+  },
+  {
+    "Key": "What element is the most abundant in the Earth's crust?",
+    "Options": [ "Oxygen", "Carbon", "Silicon", "Aluminum" ],
+    "CorrectAnswer": [ "Oxygen" ]
+  },
+  {
+    "Key": "What happens to the solubility of gases in liquids as temperature increases?",
+    "Options": [
+      "Solubility increases",
+      "Solubility decreases",
+      "Solubility does not change",
+      "Solubility can increase or decrease depending on specific conditions"
+    ],
+    "CorrectAnswer": [ "Solubility decreases" ]
+  },
+  {
+    "Key": "What is the process called when one element is replaced by another in a chemical compound?",
+    "Options": [ "Oxidation", "Reduction", "Cation exchange", "Substitution" ],
+    "CorrectAnswer": [ "Substitution" ]
+  },
+  {
+    "Key": "What happens to the solubility of salts in water as temperature increases?",
+    "Options": [
+      "Solubility increases",
+      "Solubility decreases",
+      "Solubility does not change",
+      "Solubility can increase or decrease depending on specific conditions"
+    ],
+    "CorrectAnswer": [ "Solubility increases" ]
+  },
+  {
+    "Key": "What is the name of the chemical reaction in which one substance breaks down into simpler substances?",
+    "Options": [ "Synthesis", "Dissociation", "Oxidation", "Decomposition" ],
+    "CorrectAnswer": [ "Decomposition" ]
+  },
+  {
+    "Key": "What is the name of a substance that acts as a solvent for other substances?",
+    "Options": [ "Solvent", "Reagent", "Salt", "Solution" ],
+    "CorrectAnswer": [ "Solvent" ]
+  }
+]

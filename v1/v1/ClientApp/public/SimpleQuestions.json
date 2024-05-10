@@ -1,0 +1,102 @@
+[
+  {
+    "Key": "What chemical substance is the main component of the ozone layer in the Earth's atmosphere?",
+    "Options": [ "Nitrogen", "Oxygen", "Carbon dioxide", "Ozone" ],
+    "CorrectAnswer": [ "Ozone" ]
+  },
+  {
+    "Key": "Who is the author of the book \"1984\"?",
+    "Options": [ "Ray Bradbury", "George Orwell", "Aldous Huxley", "Ernest Hemingway" ],
+    "CorrectAnswer": [ "George Orwell" ]
+  },
+  {
+    "Key": "Which continent is located the furthest south?",
+    "Options": [ "Africa", "Australia", "Antarctica", "South America" ],
+    "CorrectAnswer": [ "Antarctica" ]
+  },
+  {
+    "Key": "Which chemical element is the lightest of all non-metals?",
+    "Options": [ "Hydrogen", "Helium", "Oxygen", "Nitrogen" ],
+    "CorrectAnswer": [ "Hydrogen" ]
+  },
+  {
+    "Key": "In which year did the French Revolution take place?",
+    "Options": [ "1789", "1799", "1809", "1819" ],
+    "CorrectAnswer": [ "1789" ]
+  },
+  {
+    "Key": "Which composer wrote the opera \"La Traviata\"?",
+    "Options": [ "Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Giuseppe Verdi", "Pyotr Ilyich Tchaikovsky" ],
+    "CorrectAnswer": [ "Giuseppe Verdi" ]
+  },
+  {
+    "Key": "What is the capital of Japan?",
+    "Options": [ "Hanoi", "Seoul", "Tokyo", "Bangkok" ],
+    "CorrectAnswer": [ "Tokyo" ]
+  },
+  {
+    "Key": "Who wrote the novel \"The Master and Margarita\"?",
+    "Options": [ "Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Mikhail Bulgakov" ],
+    "CorrectAnswer": [ "Mikhail Bulgakov" ]
+  },
+  {
+    "Key": "Which city is the capital of Italy?",
+    "Options": [ "Milan", "Rome", "Naples", "Florence" ],
+    "CorrectAnswer": [ "Rome" ]
+  },
+  {
+    "Key": "Which chemical element is represented by the symbol Fe?",
+    "Options": [ "Calcium", "Iron", "Copper", "Silver" ],
+    "CorrectAnswer": [ "Iron" ]
+  },
+  {
+    "Key": "In which year was the company Apple founded?",
+    "Options": [ "1976", "1986", "1996", "2006" ],
+    "CorrectAnswer": [ "1976" ]
+  },
+  {
+    "Key": "What is the name of the largest desert in the world?",
+    "Options": [ "Sahara", "Gobi", "Atacama", "Arabian" ],
+    "CorrectAnswer": [ "Sahara" ]
+  },
+  {
+    "Key": "Which planets of the Solar System are gas giants?",
+    "Options": [ "Mercury", "Earth", "Jupiter", "Saturn" ],
+    "CorrectAnswer": [ "Jupiter", "Saturn" ]
+  },
+  {
+    "Key": "Who is not the author of the novel \"War and Peace\"?",
+    "Options": [ "Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev" ],
+    "CorrectAnswer": [ "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev" ]
+  },
+  {
+    "Key": "Which of the listed cities is not the capital of Sweden?",
+    "Options": [ "Oslo", "Helsinki", "Stockholm", "Copenhagen" ],
+    "CorrectAnswer": [ "Oslo", "Helsinki", "Copenhagen" ]
+  },
+  {
+    "Key": "Select the satellites of Jupiter:",
+    "Options": [ "Moon", "Io", "Ganymede", "Triton" ],
+    "CorrectAnswer": [ "Io", "Ganymede" ]
+  },
+  {
+    "Key": "Select the satellites of Mars:",
+    "Options": [ "Phobos", "Deimos", "Io", "Moon" ],
+    "CorrectAnswer": [ "Phobos", "Deimos" ]
+  },
+  {
+    "Key": "The animals that are symbols of Australia are:",
+    "Options": [ "Kangaroo", "Koala", "Emu", "Wombat" ],
+    "CorrectAnswer": [ "Kangaroo", "Emu" ]
+  },
+  {
+    "Key": "Who is not depicted on the one-dollar bill in the United States?",
+    "Options": [ "George Washington", "Abraham Lincoln", "Benjamin Franklin", "Thomas Jefferson" ],
+    "CorrectAnswer": [ "Abraham Lincoln", "Benjamin Franklin", "Thomas Jefferson" ]
+  },
+  {
+    "Key": "Which of the following planets in the Solar System have rings?",
+    "Options": [ "Mars", "Jupiter", "Saturn", "Uranus" ],
+    "CorrectAnswer": [ "Saturn", "Uranus" ]
+  }
+]
